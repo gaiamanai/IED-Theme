@@ -16,7 +16,7 @@
 
             <p>
                 <a href="https://wordpress.org/">
-                    Powered by WordPress
+                    Powered by Me
                 </a>
             </p><!-- .powered-by-wordpress -->
 
