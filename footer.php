@@ -16,7 +16,7 @@
 
             <p>
                 <a href="https://wordpress.org/">
-                    Powered by Me
+                    Powered by WordPress
                 </a>
             </p><!-- .powered-by-wordpress -->
 
@@ -25,7 +25,6 @@
     </div><!-- .section-inner -->
 
 </footer><!-- #site-footer -->
-<?php wp_footer(); ?>
 
 </body>
 </html>
